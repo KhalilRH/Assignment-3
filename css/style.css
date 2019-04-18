@@ -1,0 +1,145 @@
+.body{
+	background-image: url("image/river.jpg")
+	 
+}
+.header{
+	min-height:100px;
+	border:5px solid red;
+	background-color:orange;
+	font-size:50px;
+	text-align:center;
+}
+.container{
+	border:10px solid blue;
+	overflow:hidden;
+}
+.contract{
+	background-color:violet;
+	min-height:100px;
+	width:60%;
+	float:left;
+}
+.blog{
+	background-color:green;
+	min-height:100px;
+	width:40%;
+	float:right;
+}
+.footer{
+	min-height:50px;
+	background-color:red;
+	font-size:50px;
+	text-align:center;
+}
+.london{
+	background-color:black;
+	color:white;
+	margin:10px;
+	padding:20px;
+	text-align:center;
+}
+.paris{
+	background-color:blue;
+	color:orange;
+	margin:25px;
+	padding:25px;
+	width:50%;
+	height:100px;
+	outline:green solid 15px;
+	border:2px solid red;
+	overflow: scroll;
+
+}
+#lorem{
+	text-align:center;
+	font-size:15px;
+	color:orange;
+	border:2px solid hsl(0, 100%, 25%);
+	
+}
+/*this is coment*/
+.head{
+	text-align:center;
+	color:red;
+	font-size:30px;
+	padding:20px;
+}
+.heading{
+	text-align:center;
+	color:green;
+	border-bottom:6px solid hsl(0, 100%, 25%) ;
+	font-size 10vw;
+}
+.dotted{
+	border:double;
+	border-color:red green blue orange;
+	background-color:lightgray;
+	border-radius: 12px;
+	font-style: italic;
+}
+.about{
+	border:2px solid black;
+	margin: 25px 50px 75px 100px
+}
+
+.ui{
+	height:200px;
+	max-width:500px;
+	background-color:red;
+	outline-offset:15px;
+	outline:1px solid red;
+	font-size:30px;
+	text-decoration:line-through;
+	text-transform:capitalize;
+	text-indent: 80px;
+	letter-spacing: 3px;
+	line-height: 0.7;
+	word-spacing: 10px;
+	text-shadow:3px 2px blue;
+	
+}
+.color{
+	color:yellow;
+}
+.top{
+	vertical-align: text-top;
+
+}
+.middle{
+	vertical-align: text-bottom;
+}
+.link{
+	color:hotpink;
+	
+}
+.u{
+	font-size:50px;
+	background-color: cyan;
+	padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.list{
+	background:#ff9999;
+	padding:10px;
+
+}
+.list2{
+	 background: #cce5ff;
+     margin: 10px;
+}
+.table{
+	 border-collapse: collapse ;
+	width:100%;
+
+
+}
+.table2{
+	border: 2px solid orange;
+}
+.table1{
+	border: 2px solid orange;
+	height:50px;
+}
